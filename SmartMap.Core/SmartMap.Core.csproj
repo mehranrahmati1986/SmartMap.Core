@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
     <PackageId>SmartMap.Core</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.2</Version>
     <Authors>Mehran Ghaedrahmat</Authors>
     <Company>Mehran</Company>
 	  <Description>فریم‌ورک هوشمند مپینگ داده‌ها با استفاده از AutoMapper. با این فریم‌ورک می‌توانید بدون نیاز به تعریف کلاس‌های Profile جداگانه، به‌راحتی Entityها را به DTO و بالعکس تبدیل کنید.</Description>
