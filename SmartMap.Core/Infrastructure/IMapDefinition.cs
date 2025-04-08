@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace SmartMap.Core;
+namespace SmartMap.Core.Infrastructure;
 
 public interface IMapDefinition
 {

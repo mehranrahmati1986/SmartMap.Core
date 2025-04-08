@@ -1,7 +1,8 @@
 ﻿using AutoMapper;
 using Microsoft.Extensions.DependencyInjection;
+using SmartMap.Core.Infrastructure;
 
-namespace SmartMap.Core;
+namespace SmartMap.Core.Extensions;
 
 public static class MappingExtensions
 {

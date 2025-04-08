@@ -1,4 +1,4 @@
-﻿namespace SmartMap.Core;
+﻿namespace SmartMap.Core.Infrastructure;
 
 public static class ServiceLocator
 {

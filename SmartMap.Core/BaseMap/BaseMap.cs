@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
+using SmartMap.Core.Infrastructure;
 
-namespace SmartMap.Core;
+namespace SmartMap.Core.BaseMap;
 
 public abstract class BaseMap<T, Entity> : IMapDefinition
 {

@@ -1,7 +1,8 @@
 ﻿using AutoMapper;
+using SmartMap.Core.Infrastructure;
 using System.Reflection;
 
-namespace SmartMap.Core;
+namespace SmartMap.Core.AutoDiscovery;
 
 /// <summary>
 /// یافتن و ساختن اتوماتیک مپر ها
