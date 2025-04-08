@@ -12,7 +12,6 @@
 
 برای نصب این پکیج، می‌توانید از NuGet استفاده کنید:
 
-# نحوه استفاده
 
 ```bash
 dotnet add package SmartMap.Core
